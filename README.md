@@ -2,7 +2,8 @@
 > Sou desenvolvedor backend (e bem pouquinho de front 🙈) na equipe de sustentação da Arrecadação na [Servicenet Tecnologia](https://www.servicenet.com.br/)
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=social&logo=linkedin&logoColor=blue" />][Linkedin]
+- [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=social&logo=linkedin" />][Linkedin]
+- [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=social&logo=gmail" />][gmail]
 <br />
 <br />
 
@@ -25,3 +26,4 @@ Musculação, música, games, séries, tecnologia e descoberta espacial 🌃 �
 
 
 [linkedin]: https://www.linkedin.com/in/allannfs/
+[gmail]: mailto:allan.silva.dev@gmail.com?subject=Olá%20Allan

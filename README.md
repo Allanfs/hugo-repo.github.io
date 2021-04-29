@@ -4,8 +4,6 @@
 ### Connect with me
 - [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=social&logo=linkedin" />][Linkedin]
 - [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=social&logo=gmail" />][gmail]
-<br />
-<br />
 
 ### Paixões e Interesses
 Musculação, música, games, séries, tecnologia e descoberta espacial 🌃 🚀

@@ -1,5 +1,5 @@
 # Oi, eu sou o Allan ✌🏼
-> Sou desenvolvedor backend (e bem pouquinho de front 🙈) na equipe de sustentação da Arrecadação na [Servicenet Tecnologia](https://www.servicenet.com.br/)
+> Sou desenvolvedor backend no projeto da Avenue, la na [DB1](https://www.db1group.com/)
 
 ### Connect with me
 - [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=social&logo=linkedin" />][Linkedin]

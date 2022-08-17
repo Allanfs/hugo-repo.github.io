@@ -1,4 +1,4 @@
-baseURL = 'https://allanfs.github.io/'
+baseURL = 'https://allanfs.github.io/allanfs'
 languageCode = 'en-us'
 title = 'Allan Silva'
 theme = "ananke"
